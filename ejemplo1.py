@@ -1,6 +1,6 @@
 #ingresar dos numeros, mostrar la suma y multiplicacion de ambos
-a=int(imput("digite un numero: "))
-b=int(imput("Digite otro numero: "))
+a=int(input("digite un numero: "))
+b=int(input("Digite otro numero: "))
 suma=a+b
 multi=a*b
 print("La suma de " + str(a) + " y de " + str(b) + " Es igual a: " + str(suma))
